@@ -34,6 +34,7 @@ public class ArrayListSample {
             System.out.println(place);
         }
         
+        
         // forEachとラムダ式による取得
         System.out.println("forEachとラムダ式による取得：");
         places.forEach((place) -> System.out.println(place));
